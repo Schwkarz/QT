@@ -264,5 +264,32 @@ void Widget::timerEvent(QTimerEvent *event)
 在QT中提供了QTimer类来进行定时器操作现在Widget类中定义一个QTimer指针，在用指针创建定时器。
 使用start()函数开启定时器
 ```cpp
+//msec代表定时时间，单位为毫秒
 void start(int msec);
 ```
+使用stop()函数来暂停定时器
+```cpp
+void stop();
+```
+#### 3.2.1 图片循环播放器界面设计
+![Alt text](image-3.png) 
+#### 3.2.2 代码设计
+```cpp
+void Widget::TIM1_IRQHandler()
+{
+    QString path = "D:\\Study\\QT\\project\\03\\img\\20240101江汉路跨年-";
+    path += QString::number(imgID);
+    path += ".jpg";
+    QImage img;
+    img.load(path);
+    ui->label->setPixmap(QPixmap::fromImage(img));
+    imgID++;
+    if(imgID == 40)
+    {
+        imgID = 1;
+    }
+}
+```
+这次使用QImage类来显示图片，当label调用setPixmap时，先容QPixmap::fromImage来转换成QPixmax类。大体上与之前相同，目前都是只简单的使用了路径，没有对图片进行更改操作
+显示效果如图：
+![Alt text](image-5.png)
