@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ab431719a5ba093a94fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04TimerQTimer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04TimerQTimer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04TimerQTimer-Debug-3eeccf87350fc9f25dbb.json",
+					"name" : "04TimerQTimer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04TimerQTimer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04TimerQTimer_autogen-Debug-8cf8b82fff02368e85c5.json",
+					"name" : "04TimerQTimer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04TimerQTimer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04TimerQTimer_autogen_timestamp_deps-Debug-8265bd68522a92ae4258.json",
+					"name" : "04TimerQTimer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Study/QT/project/04/build-04TimerQTimer-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "D:/Study/QT/project/04/04TimerQTimer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

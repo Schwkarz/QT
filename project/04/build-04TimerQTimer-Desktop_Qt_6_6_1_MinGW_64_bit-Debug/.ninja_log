@@ -1,0 +1,17 @@
+# ninja log v5
+1	556	7282478067911066	04TimerQTimer_autogen/timestamp	abb3dba2cb499523
+1	556	7282478067911066	04TimerQTimer_autogen/mocs_compilation.cpp	abb3dba2cb499523
+1	556	7282478067911066	D:/Study/QT/project/04/build-04TimerQTimer-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/04TimerQTimer_autogen/timestamp	abb3dba2cb499523
+1	556	7282478067911066	D:/Study/QT/project/04/build-04TimerQTimer-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/04TimerQTimer_autogen/mocs_compilation.cpp	abb3dba2cb499523
+558	2730	7282478090286783	CMakeFiles/04TimerQTimer.dir/04TimerQTimer_autogen/mocs_compilation.cpp.obj	3bec7b80b89eb8a6
+557	2756	7282478090556903	CMakeFiles/04TimerQTimer.dir/main.cpp.obj	4af6c79b1a5462f9
+560	2831	7282478091316160	CMakeFiles/04TimerQTimer.dir/widget.cpp.obj	e970d8732c64965c
+2832	3014	7282478093080684	04TimerQTimer.exe	fea8bc51b7c52d84
+6	437	7282480553571333	04TimerQTimer_autogen/timestamp	abb3dba2cb499523
+6	437	7282480553571333	04TimerQTimer_autogen/mocs_compilation.cpp	abb3dba2cb499523
+6	437	7282480553571333	D:/Study/QT/project/04/build-04TimerQTimer-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/04TimerQTimer_autogen/timestamp	abb3dba2cb499523
+6	437	7282480553571333	D:/Study/QT/project/04/build-04TimerQTimer-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/04TimerQTimer_autogen/mocs_compilation.cpp	abb3dba2cb499523
+437	2653	7282480576343254	CMakeFiles/04TimerQTimer.dir/main.cpp.obj	4af6c79b1a5462f9
+439	2662	7282480576431399	CMakeFiles/04TimerQTimer.dir/04TimerQTimer_autogen/mocs_compilation.cpp.obj	3bec7b80b89eb8a6
+441	2742	7282480577232928	CMakeFiles/04TimerQTimer.dir/widget.cpp.obj	e970d8732c64965c
+2742	2938	7282480579163646	04TimerQTimer.exe	fea8bc51b7c52d84

@@ -1,0 +1,9 @@
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/002Caculator.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/002Caculator_autogen_timestamp_deps.dir
+D:/Study/QT/project/02/build-002Caculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/002Caculator_autogen.dir
